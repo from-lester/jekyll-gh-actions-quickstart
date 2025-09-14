@@ -5,7 +5,7 @@ description: Starter template for a Jekyll 4 site - deployed with GH Actions and
 
 ### Build settings
 
-url: https://michaelcurrin.github.io
+url: https://from-lester.github.io
 baseurl: /jekyll-gh-actions-quickstart
 
 theme: just-the-docs
@@ -26,4 +26,4 @@ exclude:
 ### Theme settings
 
 aux_links:
-  "View source": "https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart"
+  "View source": "https://github.com/from-lester/jekyll-gh-actions-quickstart"
